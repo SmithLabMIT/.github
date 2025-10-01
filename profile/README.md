@@ -4,7 +4,7 @@
 
 ***
 
-![Smith Lab Logo](smithlablogo.png)
+![Smith Lab Logo](../smithlablogo.png)
 <!--
 
 **Here are some ideas to get you started:**
