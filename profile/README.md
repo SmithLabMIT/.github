@@ -4,7 +4,7 @@
 
 ***
 
-![Smith Lab Logo](../smithlablogo.png)
+![Smith Lab Logo](https://raw.githubusercontent.com/SmithLabMIT/.github/main/smithlablogo.png)
 <!--
 
 **Here are some ideas to get you started:**
